@@ -4,13 +4,7 @@ AETHERMIND RIBOTICS v2.7
 
 Quantum-AI Driven Agriculture & Livestock Robotic System
 
-```
-https://img.shields.io/badge/AETHERMIND_RIBOTICS-v2.7-2ECC71
-https://img.shields.io/badge/Specialization-Agriculture_&_Livestock-27AE60
-https://img.shields.io/badge/Technology-Quantum_AI_Robotics-3498DB
-https://img.shields.io/badge/Platform-AETHERMIND_OS-8A2BE2
-https://img.shields.io/badge/Year-2025-brightgreen
-```
+
 
 AETHERMIND RIBOTICS v2.7 is the world's first quantum-AI driven robotic system for precision agriculture and intelligent livestock management. Integrating quantum computing, biological sensing, and autonomous robotics to create a sustainable, efficient, and conscious farming ecosystem.
 
